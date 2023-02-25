@@ -2,7 +2,7 @@
 
 Demo: 
 
-https://github.com/sebastianromanczuk/Currency-Calculator-React/blob/main/public/Calculator-React.gif
+![Currency-Calculator](https://github.com/sebastianromanczuk/Currency-Calculator-React/blob/main/public/Calculator-React.gif)
 
 Usage:
 
