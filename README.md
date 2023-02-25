@@ -1,6 +1,6 @@
 # Currency-Calculator-React
 
-## Demo  ⇣ ⇣ ⇣
+## Demo: https://sebastianromanczuk.github.io/Currency-Calculator-React/  ⇣ ⇣ 
 
 ![Currency-Calculator](https://github.com/sebastianromanczuk/Currency-Calculator-React/blob/main/public/Calculator-React.gif)
 
