@@ -1,6 +1,8 @@
 # Currency-Calculator-React
 
-## Demo: https://sebastianromanczuk.github.io/Currency-Calculator-React/ 
+## Demo: https://sebastianromanczuk.github.io/Currency-Calculator-React/
+
+# Hello, enter the given amount in the table and it will convert the amount given on the currency calculator, please choose the amount of Swiss francs, euros or British pounds.
 
 ![Currency-Calculator](https://github.com/sebastianromanczuk/Currency-Calculator-React/blob/main/public/Calculator-React.gif)
 
